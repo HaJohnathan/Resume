@@ -1,0 +1,107 @@
+h1{
+	border-style: double;	
+	background-color:#483D8B;
+	font-family: great vibes;
+	text-align: center;
+	width: 250px;
+	font-size: 50px;
+	color: #c6c6c6;
+	border-color: #FF69B4;
+}
+#renderhead {
+    left: 350px;
+    position: absolute;
+}
+
+#scripthead {
+    left: 350px;
+    top: 190px;
+    position: absolute;
+}
+
+#ingenioushead {
+    margin-left: 690px;
+    position: absolute;
+}
+
+#websitehead {
+    left: 350px;
+    top: 375px;
+    position: absolute;
+}
+
+img{
+	margin-left: 225px;
+	width: 800px;
+	height: 600px;
+	position: absolute;
+    top: 30px;
+}
+
+#website{
+	top: 480px;
+	position: absolute;
+	float: left;
+	width: 200px;
+	text-align: left;
+	font-family: kaushan script;
+	font-size: 30px;
+	margin-left: 350px;
+	background-color: white;
+	border-style: double;
+}
+
+#renders{
+	top: 110px;
+	position: absolute;
+	float: left;
+	width: 200px;
+	text-align: left;
+	font-family: kaushan script;
+	font-size: 30px;
+	margin-left: 350px;
+	background-color: white;
+	border-style: double;
+}
+
+#script{
+	position: absolute;
+    top: 295px;
+	width: 200px;
+	text-align: left;
+	font-family: kaushan script;
+	font-size: 30px;
+	left: 360px;
+	background-color: white;
+	border-style: double;
+}
+
+#chapters{
+    left: 370px;
+	top: 200px;
+	position: absolute;
+	width: 200px;
+	text-align: left;
+	font-family: kaushan script;
+	font-size: 30px;
+	margin-left: 350px;
+	background-color: white;
+	border-style: double;
+}
+
+ul {
+  list-style-type: none;
+    font-size: 20px;
+    font-family: Rye;
+    background-color: deeppink;
+    position: fixed;
+    bottom: 0px;
+    border: double;
+    right: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+	background-image: url(../images/connections.jpg);
+}

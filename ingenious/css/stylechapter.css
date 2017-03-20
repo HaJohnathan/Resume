@@ -1,0 +1,99 @@
+#Ene{
+	border-style: double;	
+	background-color:#483D8B;
+	font-family: great vibes;
+	text-align: center;
+	width: 200px;
+	font-size: 25px;
+	margin: auto;
+	color: #c6c6c6;
+	border-color: #FF69B4;
+}
+
+#Kari{
+	border-style: double;	
+	background-color: white;
+	font-family: great vibes;
+	text-align: center;
+	width: 200px;
+	font-size: 25px;
+	margin: auto;
+	color: black;
+	border-color: #483D8B;
+}
+
+#Cerebellum{
+	font-family: great vibes;
+	font-size: 25px;
+	text-align: center;
+	margin: auto;
+	width: 200px;
+	background-color: #FF69B4;
+	color: #c6c6c6;
+	border-color: #483D8B;
+	border-style: double;
+}
+
+#James{
+	font-family: great vibes;
+	font-size: 25px;
+	text-align: center;
+	margin: auto;
+	width: 200px;
+	background-color: #8B4513;
+	color: #4682B4;
+	border-color: #4682B4;
+	border-style: double;
+}
+
+#Alice{
+	font-family: great vibes;
+	font-size: 25px;
+	text-align: center;
+	margin: auto;
+	width: 200px;
+	background-color: #FFD700;
+	color: #4B0082;
+	border-color: #4B0082;
+	border-style: double;
+	
+}
+
+ul {
+  list-style-type: none;
+    font-size: 20px;
+    font-family: Rye;
+    background-color: deeppink;
+    position: fixed;
+    bottom: 0px;
+    border: double;
+    right: 10px;
+    text-align: center;
+    padding: 10px;
+}
+li{
+    padding: 10px;
+}
+p{
+	border-style: double;
+	margin-right: 200px;
+	margin-left: 200px;
+	text-indent: 50px;
+	background-color: white;
+}
+
+#name{
+	border-style: double;	
+	background-color:#483D8B;
+	font-family: great vibes;
+	text-align: center;
+	width: 200px;
+	font-size: 25px;
+	margin: auto;
+	color: #c6c6c6;
+	border-color: #FF69B4;
+}
+
+body{
+	background-image: url(../images/connections.jpg);
+}

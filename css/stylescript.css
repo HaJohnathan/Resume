@@ -1,0 +1,32 @@
+iframe{
+	margin-left: 250px;
+}
+h1{
+	border-style: double;	
+	background-color:#483D8B;
+	font-family: great vibes;
+	text-align: center;
+	width: 200px;
+	font-size: 50px;
+	margin-left: 500px;
+	color: #c6c6c6;
+	border-color: #FF69B4;
+}
+ul {
+  list-style-type: none;
+    font-size: 20px;
+    font-family: Rye;
+    background-color: deeppink;
+    position: fixed;
+    bottom: 0px;
+    border: double;
+    right: 10px;
+    text-align: center;
+    padding: 10px;
+}
+li{
+    padding: 10px;
+}
+body{
+	background-image: url(../images/connections.jpg);
+}
