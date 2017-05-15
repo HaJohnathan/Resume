@@ -20,6 +20,16 @@ video{
 	border-color: #FF69B4;
 }
 
+iframe{
+    border-style: double;	
+	background-color:#483D8B;
+	text-align: center;
+	width: 640px;
+	margin-left: 300px;
+	color: #c6c6c6;
+	border-color: #FF69B4;
+}
+
 body{
 	background-image: url(../images/connections.jpg);
 }
